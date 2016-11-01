@@ -1,6 +1,6 @@
 {
   "name": "Phylogeography",
-  "tagline": "Supplementary materials",
-  "body": "### Welcome to the phylogeography organization\r\nThis page contain supplementary material for various manuscripts:\r\n\r\n1. [Antigenic comparison](videos/pCRP-comparison.pdf)\r\n",
+  "tagline": "Supplementary material",
+  "body": "### Welcome to the phylogeography organization\r\nThis page contain supplementary material for various manuscripts:\r\n\r\n1. Cybis _et al._, Bayesian nonparametric clustering in phylogenetics: modeling antigenic evolution in influenza. _Statistics in Medicine_.\r\n\r\n  * [Antigenic comparison video](videos/pCRP-comparison.pdf)\r\n  * [H1N1 BEAST XML](xml/H1N1.xml)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
